@@ -11,7 +11,7 @@ body{
     background-position: center;
 }
 #download{
-    text-align: center;
+    text-align:center;
     background-color: #f1f4ef; /* Green */
     border: 2px solid #101010;
     border-radius: 10px;
